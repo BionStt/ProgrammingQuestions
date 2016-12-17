@@ -24,15 +24,6 @@ namespace ProgrammingQuestions.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
-
-            return View();
-        }
-
-        public IActionResult Contact()
-        {
-            ViewData["Message"] = "Your contact page.";
-
             return View();
         }
 
@@ -41,9 +32,18 @@ namespace ProgrammingQuestions.Controllers
             return View();
         }
 
-        public IActionResult RandomQuestion()
+        public IActionResult RandomQuestion(string subject = "")
         {
             ProgrammingQuestionCollection questions = XmlWorker.GetQuestions(_env);
+            ViewBag.Subjects = questions.Questions
+                .Select(q => new { Value = q.Subject, Text = q.Subject })
+                .Distinct()
+                .OrderBy(q => q.Text);
+
+            if (subject != "")
+            {
+                return View(questions.GetRandomQuestion(subject));
+            }
 
             return View(questions.GetRandomQuestion());
         }

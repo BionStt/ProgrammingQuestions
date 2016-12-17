@@ -1055,67 +1055,67 @@
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>Write a method to print the last K lines of an input file using C++.</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>Implement a function void reverse(char* str) in C or C++ which reverses a null-terminated string.</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>Compare and contrast a hash table and an STL map. How is a hash table implemented? If the number of inputs is small, which data structure options can be used instead of a hash table?</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>How do virtual functions work in C++?</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>What is the difference between deep copy and shallow copy? Explain how you would use each.</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>What is the significance of the keyword "volatile" in C?</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>Why does a destructor in base class need to be declared virtual?</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>Write a method that takes a pointer to a Node structure as a parameter and returns a complete copy of the passed in data structure. The Node data structure contains two pointers to other Nodes.</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>Write a smart pointer class. A smart pointer is a data type, usually implemented with templates, that simulates a pointer while also providing automatic garbage collection. It automatically counts the number of references to a SmartPointer&lt;T*&gt; object and frees the object of type T when the reference count hits zero.</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>Write an aligned malloc and free function that supports allocating memory such that the memory address returned is divisible by a specific power of two. Example align_malloc(1000, 128) will return a memory address that is a multiple of 128 and that points to memory of size 1000 bytes. aligned_free() will free memory allocated by align_malloc.</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>
       <Difficulty>1</Difficulty>
       <Question>Write a function in C called my2DAlloc which allocates a two-dimensional array. Minimize the number of calls to malloc and make sure that the memory is accessible by the notation arr[i][j].</Question>
-      <Subject>C and C++</Subject>
+      <Subject>C and Cpp</Subject>
       <Source>Cracking the Coding Interview [McDowell]</Source>
     </ProgrammingQuestion>
     <ProgrammingQuestion>

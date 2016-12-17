@@ -6,6 +6,29 @@
 
 <h2>Programming Question</h2>
 <div>
-    <p>@Model.Question</p>
-    <p>From: @Model.Source</p>
+    <p><b>Question:</b> @Model.Question</p>
+    <p><b>From:</b> <i>@Model.Source</i></p>
 </div>
+<div>
+    <p>
+        <b>Subject:</b> @Model.Subject
+    </p>
+    <p>
+        @Html.ActionLink("Load Another Question", "RandomQuestion")
+    </p>
+    <br />
+    <h3>Select a Subject</h3>
+    <p>
+        @Html.DropDownList("SelectedSubject", new SelectList(ViewBag.Subjects, "Value", "Text"),
+                "Select a Subject",
+                new { onchange = "redirect(this.value);" })
+    </p>
+</div>
+@section scripts
+{
+    <script>
+        function redirect(selectedValue) {
+            window.location.href = '/Home/RandomQuestion?subject=' + selectedValue;
+        }
+    </script>    
+}
