@@ -1890,5 +1890,473 @@
       <Subject>Knowledge Based</Subject>
       <Source>Programming Interviews Exposed</Source>
     </ProgrammingQuestion>
+    <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What do you want to do?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is your favorite programming language?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is your work style?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What can you tell me about your experience?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What are your career goals?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why are you looking to change jobs?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What salary are you expecting?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is your salary history?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why should we hire you?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why do you want to work for this company?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Do you have any questions for me?</Question>
+		  <Subject>Soft Skills</Subject>
+		  <Source>Programming Interviews Exposed</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why use source control?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What popular programming wisdom to you disagree with?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why are software projects always late?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why can't you keep adding programmers?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>How do you ensure that your estimates are sound?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why is code clarity important?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What are your red flags during code review?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Describe some things you always do when troubleshooting.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>How do you go about getting familiar with a large code project?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Describe your understanding of cargo-cult programming.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Describe some potential downsides of code comments.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>When is it acceptable to produce lower-quality code?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>How can large code projects be kept under control?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>How do you add features to unfamiliar code?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What exactly is wrong with so-called clever code?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>How do you improve your programming ability?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Describe a coding project of which you're proud of.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Explain programming in non-technical terms.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Explain the significance of coupling and cohesion.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is the real problem with global variables?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Explain the term technical debt in terms of a non-technical manager will understand.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Explain the term refactoring in terms that a non-technical manager will understand.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is the significance of a leaky abstraction?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is continuous integration and how is it helpful?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is your favorite software development methodology?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>How do I tell the product owner that his requirements are ridiculous?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What advice do you have for new programmers?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Do coding standards influence code quality?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Which coding standards are the most important?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why is the number of lines of code produced by a programmer a poor measurement of programmer productivity?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Is the goto statement really that harmful?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Should software managers have technical backgrounds?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Should application architects know how to write code?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is your desert-islant best practice?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>This C# enumeration has gained some notoriety on the Internet, but what is wrong with it? Enum Bool { True, False, FileNotFound };</Question>
+		  <Subject>Code Quality</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Here is a simple example of inheritance in C#. If you take the class names at face value then what, if anything, is wrong with this code? Public class Person : Person Collection { }</Question>
+		  <Subject>Code Quality</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Is this a good way to check two variables for non-zero values? Can the code be improved? If (new[] { height, width }.Any (c =&gt; c != 0)) {}</Question>
+		  <Subject>Code Quality</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Here's a strange loop. What is it trying to do, and how could you make it clearer? For ( int I = 0; I &lt; MyControl.TabPages.Count; i++) { MyControl.TabPages.Remove (MyControl.TabPages[i] ); i--;}</Question>
+		  <Subject>Code Quality</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is the time complexity of this function? Bool getAnswerLength (int questionId) { return ( (string[]) answers[questionId]).Length; }</Question>
+		  <Subject>Code Quality</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Critique this code snippet. Assume that the variable ds is an ADO.Net DataSet. If ( long.TryParse(ds.Tables[0].Rows[0][0].ToString(), out committeId)) } committeId = long.Parse(ds.Tables[0].Rows[0][0].ToString()); }</Question>
+		  <Subject>Code Quality</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Critique this code snippet: if (this.&gt;Month == 12) {return true; } else {return false;}</Question>
+		  <Subject>Code Quality</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Write a function that will count the number of unique characters in a string. Optimize the function for clarity.</Question>
+		  <Subject>Code Quality</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Explain the importance of obtaining locks in a fixed order; that is, why is lock ordering important?</Question>
+		  <Subject>Concurrency</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Explain why it might be considered bad practice to lock on a reference to the current instance of a class as per the following C# code: lock (this) { this.Name = "foo"; this.Update(); }</Question>
+		  <Subject>Concurrency</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Explain why it might be considered bad practice to lock on a string as per the following C# code: lock ("my lock") { this.Name = "foo"; this.Update(); }</Question>
+		  <Subject>Concurrency</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>If all arguments are passed to methods by value (not by reference) explain how it is possible to modify the properties of an object that is passed as an argument to a method.</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>In C#, what is the difference between the ref modifier and the out modifier?</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Describe denormalization. Describe one reason why you might denormalize a database.</Question>
+		  <Subject>Databases</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>The decimal fraction 3/4 (0.75) can be written as a binary number 0.11. Convert the decimal fraction 1/10 to a binary number by hand on paper or on a whiteboard.</Question>
+		  <Subject>Bit Manipulation</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Why does the following JavaScript give the unexpected result of 0.300000000000004? Var n = 0.1; n += 0.2; document.writeln('0.1 + 0.2 = ' + n);</Question>
+		  <Subject>Knowledge Based</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Write a program in any language to reverse the order of words in the following string: "bashful doc dopey  grumpy happy sleepy sneezy"</Question>
+		  <Subject>Arrays and Strings</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>What is the difference between unit and integration testing?</Question>
+		  <Subject>Testing</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Apart from the obvious benefit of testing, what are some other reasons for writing unit tests?</Question>
+		  <Subject>Testing</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Describe some of the key reasons why a programmer might want to use mock objects when writing unit tests?</Question>
+		  <Subject>Testing</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Unit testing has many benefits; what are some of its limitations?</Question>
+		  <Subject>Testing</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Suppose you are given a function that returns the most common character contained in a string. For example, if the string is "aaabbc" then the function should return "a." If the string is empty or has more than one "most common" character, then the function should return null. What test values should you use in unit testing to ensure that this function works correctly?</Question>
+		  <Subject>Testing</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>When a unit test runs a line of code it is counted toward an overall figure of code coverage. If 100 lines of code are in an application, and unit testing runs 75 of these lines then the code coverage is 75 percent. What is the ideal number for code coverage as a percentage of all code in an application?</Question>
+		  <Subject>Testing</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>If programmers are so concerned about writing tests to ensure the correctness of their code, why don't they write unit tests that test other unit tests?</Question>
+		  <Subject>Testing</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>How many golf balls will it take to fill a school bus?</Question>
+		  <Subject>General</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>How would you move Mount Fuji?</Question>
+		  <Subject>General</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>A bear walks 1 mile south, turns, and walks 1 mile east, turns again and walks 1 mile north, finishing at the same place it started. What color is the bear?</Question>
+		  <Subject>General</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Suppose you comb your hair with a part on the left side of your head. When you look in a mirror you will observe that the part is now on the right side of the head looking back at you. You will also observe that your head is still at the top and your feet are still at the bottom. If you lie down horizontally on your side and look into a mirror you will observe that the mirror image of your hair parting is still switched left to right. Why does a mirror reverse left and right but not up and down?</Question>
+		  <Subject>General</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>A pirate king and his band of four pirates plunder a ship and find 100 gold coins. According to pirate law each pirate has the right to propose how to divide the coins. After a proposal is tabled the pirates take a vote. If fewer than half agree, the proposer is killed and the next highest ranked pirate will make a proposal. Naturally, the Pirate King is the first to make a proposal. How would five pirates share 100 gold coins?</Question>
+		  <Subject>General</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>An analog clock on the wall indicates the time is 6:30 PM. What is the angle between the hour and the minute hands?</Question>
+		  <Subject>General</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Write code that uses bitwise operations to find the smaller of two integers. You may not use conditional branching (for example, if statements) or framework methods such as Math.Min(a,b).</Question>
+		  <Subject>Bit Manipulation</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Write code that uses bitwise operations to find the larger of two integers. You may not use conditional branching (for example, if statements) or framework methods like Math.Max(a, b)</Question>
+		  <Subject>Bit Manipulation</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
+	  <ProgrammingQuestion>
+		  <Difficulty>1</Difficulty>
+		  <Question>Use bitwise operators to determine whether an integer is a power of 2.</Question>
+		  <Subject>Bit Manipulation</Subject>
+		  <Source>Ace the Programming Interview [Guiness]</Source>
+	  </ProgrammingQuestion>
   </Questions>
 </ProgrammingQuestionCollection>
